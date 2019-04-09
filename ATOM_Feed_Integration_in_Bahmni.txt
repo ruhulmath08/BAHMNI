@@ -1,0 +1,15 @@
+ATOM Feed Integration in Bahmni
+-------------------------------
+
+Bahmni have three modules
+  -> OpenMRS (CLINICAL SERVICE)
+  -> OpenELIS (LABORATORY)
+  -> OpenERP (STOCK INVENTORY & BILLING) -> Odoo
+  
+  The three system keep in syink with each other. Bahmni use Atom-Feed integration in order to keep three system in syink.
+  
+Atom-Feed:
+---------
+-> An XML Based syndication format which represents time-ordered series ofevents.
+-> Atom feed-server (Publisher)
+-> Atom feed-client (Consumer)
